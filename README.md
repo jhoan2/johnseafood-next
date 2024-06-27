@@ -1,4 +1,4 @@
-![john seafood](public\johnseafood-next.png)
+![john seafood](/public/johnseafood-next.png)
 
 # John Seafood
 
